@@ -1,2 +1,2 @@
-# Python-Codes
-Python Codes with Input Validation
+# Python-codes-
+All the codes here have input validation and Character Validation 
